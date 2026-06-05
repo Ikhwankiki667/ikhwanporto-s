@@ -89,7 +89,7 @@ export default function HeroSection() {
             <div className="relative">
               <div className="absolute inset-0 bg-accent/20 rounded-full blur-3xl"></div>
               <Image
-                src="/images/thinking face.png"
+                src="/images/Ikhwan.jpeg"
                 alt="Muhammad Ikhwan Fitoriqillah"
                 width={400}
                 height={400}
